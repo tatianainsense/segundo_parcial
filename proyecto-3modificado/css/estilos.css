@@ -1,0 +1,42 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(253, 253, 253);
+}
+
+section {
+    color: black;
+}
+
+header {
+    background-color: crimson;
+    padding: 20px;
+    margin: 0;
+    
+}
+
+nav{
+    background-color: darksalmon;
+    padding: 20px;
+    margin: 0;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+nav ul li a.activo{
+    color: yellow;
+}
+
+footer {
+    background-color: indianred;
+    padding: 20px;
+    margin: 0;
+}
